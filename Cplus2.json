@@ -1,0 +1,14 @@
+include <iostream>
+using namespace std;
+//Coba Coba C++
+int main(){
+    cout << "Hello World" << endl;
+    cout << "Test" << endl;
+    cout << 'a' << endl;
+    return 0
+}
+
+void hello(){
+    cout << "Hello Apa Kabar" << endl;
+    return 0
+}
